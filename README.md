@@ -9,12 +9,10 @@ The game files for this game level can be found in the public repository :
 ## Below are two video run-through examples of the final level prototype. 
 
 ### Spectator, quick overview: 
-
-<iframe width="640" height="360"  src="https://www.youtube.com/embed/nmMkczL-REA" title="GAM303 Final Prototype Spectatator Highlights E Johnson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/nmMkczL-REA
 
 ### Full detailed level run-through:
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/tc09ycViLmE" title="GAM303 Final Prototype Full playthrough E Johnson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/tc09ycViLmE
 
 
 
