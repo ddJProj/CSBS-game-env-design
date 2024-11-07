@@ -1,4 +1,4 @@
-# GAM303 - Design of Virtual Game Environments
+# Virtual Game Environments Design course: 
 
 This repository is for planning documents created while designing and building the final level prototype project.
 
